@@ -1,4 +1,3 @@
-import util from "util";
 import bleno from "bleno";
 
 import { ToggleMediaPlaybackCharacteristic } from "./toggle-media-playback-characteristic.js";
