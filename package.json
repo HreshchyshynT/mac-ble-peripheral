@@ -1,5 +1,6 @@
 {
   "name": "mac-ble-peripheral",
+  "type": "module",
   "version": "0.0.1",
   "description": "Mac OS peripheral BLE service for receiving remote control event from Android device",
   "main": "index.js",
@@ -10,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bleno": "npm:@abandonware/bleno@^0.6.1"
+    "bleno": "npm:@abandonware/bleno@^0.6.1",
+    "robotjs": "^0.6.0"
   }
 }
