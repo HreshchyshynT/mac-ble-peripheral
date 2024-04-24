@@ -2,7 +2,7 @@
 
 ### Description
 
-This Node.js app run a BLE peripheral service that allows an Android device to toggle media playback on a Mac via a play/pause characteristic. For now, it's the only feature.
+This Node.js app runs a BLE peripheral service that allows to toggle media playback on a Mac via the [Android app](https://github.com/HreshchyshynT/android-mac-remote). For now, it's the only feature.
 
 #### Libraries I used here: 
 
